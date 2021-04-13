@@ -1,0 +1,1 @@
+Use this package to comfortable work with Chat2Desk API. You can use the official documentation of API to getting started. 
